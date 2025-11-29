@@ -68,7 +68,7 @@ java -jar target\nielsen-data-push-1.0.0.jar ^
   --endDate 2025-11-07 ^
   --sftpHost namft.nielseniq.com ^
   --sftpPort 46422 ^
-  --sftpUser "Nielsen@nanukuli_WAM.com" ^
+  --sftpUser "sftp_user@example.com" ^
   --sftpPassword "YOUR_PASSWORD" ^
   --sftpPath Nielsen_wam0000
 ```
@@ -84,7 +84,7 @@ java -jar target\nielsen-data-push-1.0.0.jar ^
   --days 7 ^
   --sftpHost namft.nielseniq.com ^
   --sftpPort 46422 ^
-  --sftpUser "Nielsen@nanukuli_WAM.com" ^
+  --sftpUser "sftp_user@example.com" ^
   --sftpPassword "YOUR_PASSWORD" ^
   --sftpPath Nielsen_wam0000
 ```
